@@ -1,7 +1,7 @@
-# IntOverflow-CSA-plugin
 # Clang Static  Analyzer Pluging for interger overflow detection
 UWAGA!!! **Project in process** (not finished/may cause discausting).
-Created during the internship "Summ3r 0f h4ck 2019" in Digital Security.
+
+**Created during the internship "Summ3r 0f h4ck 2019" in Digital Security.**
 
 ### What it can do now?
     - CSA plugin skeleton
